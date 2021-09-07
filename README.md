@@ -1,7 +1,7 @@
 # Google Clone
 
 ### Version
-1.2.0
+1.2.1
 
 ### License
 Copyright © 2021 DEP-7. All Rights Reserved.

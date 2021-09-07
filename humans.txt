@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ranjith Suranga
+    suranga@ijse.lk (ijse.lk)
+    https://github.com/Ranjith-Suranga
+    https://twitter.com/cpt_sura_boy
 
 # THANKS
 
-    <name>
+    DEP 7 Team
 
 # TECHNOLOGY COLOPHON
 
-    CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    HTML5, CSS3, ParcelJS, HTML5BoilerPlate, Normalize.css, NPM, GitHub

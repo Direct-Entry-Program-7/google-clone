@@ -7,7 +7,7 @@
   "author": "Ranjith Suranga <suranga@ijse.lk> (ijse.lk)",
   "scripts": {
     "clean": "rm -rf docs",
-    "build": "parcel build index.html 404.html --out-dir docs",
+    "build": "parcel build index.html 404.html results.html --out-dir docs",
     "dev": "parcel index.html --open",
     "start": "npm run build && npm run dev"
   },

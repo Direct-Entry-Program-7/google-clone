@@ -1,13 +1,32 @@
+*:not(svg){
+    font-family: arial, sans-serif;
+    box-sizing: border-box;
+}
+
 .link{
     text-decoration: none;
+}
+
+.link:hover{
+    text-decoration: underline;
+}
+
+.button{
+    padding: 9px 23px;
+    text-decoration: none;
+    /*  Todo: Remove  */
+    background-color: blue;
+    color: white;
 }
 
 .header {
     display: flex;
     font-size: 13px;
+    align-items: center;
 }
 
 .header__app-icon {
+    margin-left: 15px;
     width: 24px;
     height: 24px;
     padding: 8px;
@@ -17,4 +36,13 @@
 .header__app-icon:hover {
     background-color: rgba(60,64,67,0.08);
     border-radius: 100%;
+}
+
+.header__link{
+    padding-left: 15px;
+    color: rgba(0,0,0,0.87);
+}
+
+.header__button{
+    margin: 0 8px;
 }
